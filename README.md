@@ -9,7 +9,7 @@ Moje projekty łączą praktyczne umiejętności programistyczne z zarządzaniem
 ## Najważniejszy projekt: Praca inżynierska – inteligentna aplikacja webowa
 
 Pracę inżynierską stworzyłem i samodzielnie zhostowałem na serwerze Linux w Oracle Cloud, dostępna pod adresem:  
-[https://xariif.mooo.com/](https://xariif.mooo.com/)  
+https://mallmanager.xariif.mooo.com/
 
 - Projekt wymaga autoryzacji, jednak nie przechowuje wrażliwych danych  
 - Pokazuje moje umiejętności tworzenia skalowalnych aplikacji webowych oraz zarządzania środowiskiem produkcyjnym  
