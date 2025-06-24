@@ -16,7 +16,7 @@ https://mallmanager.xariif.mooo.com/
 - Backend w .NET 8, frontend w React + Material UI, baza PostgreSQL  
 - Hosting i konfiguracja własnej domeny na Oracle Cloud  
 
-### Dane do logoowania
+### Dane do logowania
 #### Najemca
 -   tenant@example.com
 -   Tenant123!
