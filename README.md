@@ -17,9 +17,9 @@ Moje projekty łączą praktyczne umiejętności programistyczne z zarządzaniem
 
 - **Backend:** .NET 6/7/8, ASP.NET Core, REST API  
 - **Frontend:** React, Material UI, TypeScript  
-- **Bazy danych:** PostgreSQL, SQL  
-- **Infrastruktura:** Linux (Debian/Ubuntu), Oracle Cloud, Docker (opcjonalnie)  
-- **DevOps:** konfiguracja serwerów, CI/CD, zarządzanie domenami  
+- **Bazy danych:** PostgreSQL, SQL, MongoDB  
+- **Infrastruktura:** Linux (Debian/Ubuntu), Oracle Cloud, Docker
+- **DevOps:** konfiguracja serwerów, CI/CD, zarządzanie domenami i certyfikatami
 
 ---
 
@@ -31,3 +31,7 @@ Zapraszam do kontaktu i współpracy!
 
 ---
 
+## Projekty
+
+- **Portfolio** https://xariif.github.io/Portfolio/
+- **Praca Inżynierska** 
