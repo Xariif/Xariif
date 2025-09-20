@@ -34,5 +34,5 @@ Zapraszam do kontaktu i współpracy!
 
 ## Projekty zhostowane:
 
-- **Portfolio** https://xariif.github.io/Portfolio/
-- **Praca Inżynierska** https://github.com/Xariif/Engineering-work 
+- **Portfolio** https://github.com/Xariif/Portfolio - https://xariif.github.io/Portfolio/
+- **Praca Inżynierska** https://github.com/Xariif/Engineering-work - https://mallmanager.xariif.mooo.com/login
