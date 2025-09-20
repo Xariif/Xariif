@@ -2,7 +2,7 @@
 
 Cześć! Mam na imię Jakub i jestem full-stack developerem z doświadczeniem w technologiach .NET, React, PostgreSQL oraz administracji serwerami Linux.  
 
-Moje projekty łączą praktyczne umiejętności programistyczne z zarządzaniem infrastrukturą.  
+Moje projekty widoczne na profilu łączą praktyczne umiejętności programistyczne razem z zarządzaniem infrastrukturą serwera. Jestem "zaprawionym w boju" programistą i jestem w stanie zbudować cały projekt od 0, przekopałem się przez dziesiątki poradników, kursów, postów na stackoverflow i oficjalnych dokumentacji mojego stacku żeby wiedzieć o co w tym wszystkim chodzi. Chętnie podejmę się nowych wyzwań, jeśli jesteś ciekaw co potrafię sprawdź moje projekty lub zwyczajnie do mnie napisz :D   
 
 ---
 
@@ -15,11 +15,12 @@ Moje projekty łączą praktyczne umiejętności programistyczne z zarządzaniem
 
 ## Technologie i umiejętności
 
-- **Backend:** .NET 6/7/8, ASP.NET Core, REST API  
-- **Frontend:** React, Material UI, TypeScript  
+- **Backend:** .NET 6/7/8, ASP.NET Core, REST API , Forms
+- **Frontend:** React, Material UI, TypeScript, HTML, CSS/SCSS  
 - **Bazy danych:** PostgreSQL, SQL, MongoDB  
 - **Infrastruktura:** Linux (Debian/Ubuntu), Oracle Cloud, Docker
 - **DevOps:** konfiguracja serwerów, CI/CD, zarządzanie domenami i certyfikatami
+- **Inne** Zarządzanie SMTP i tworzenie tempalteów maili
 
 ---
 
@@ -31,7 +32,7 @@ Zapraszam do kontaktu i współpracy!
 
 ---
 
-## Projekty
+## Projekty zhostowane:
 
 - **Portfolio** https://xariif.github.io/Portfolio/
-- **Praca Inżynierska** 
+- **Praca Inżynierska** https://github.com/Xariif/Engineering-work 
